@@ -6,8 +6,8 @@ highlighter: pygments
 permalink: pretty
 
 # Setup
-title: Yet Another Security Blog
-tagline: 'Yes. Another one.'
+title: Blog
+tagline: 'Yet Another Security Blog'
 description: "A Cyber Security & Digital Forensics blog written in my spare time, usually around stuff I'm messing around with or learning on my MSc course."
 url: https://blog.ryanhowe.co.uk
 baseurl: /
