@@ -1,23 +1,23 @@
 # Dependencies
-#markdown:         redcarpet
-#highlighter:      pygments
+markdown: redcarpet
+highlighter: pygments
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 relative_permalinks: true
 
 # Setup
-title:            Yet Another Security Blog
-tagline:          'Yes. Another one.'
-description:      'A Cyber Security & Digital Forensics blog written in my spare time, usually around stuff I'm messing around with or learning on my MSc course.'
-url:              https://blog.ryanhowe.co.uk
-baseurl:          /
+title: Yet Another Security Blog
+tagline: 'Yes. Another one.'
+description: 'A Cyber Security & Digital Forensics blog written in my spare time, usually around stuff I'm messing around with or learning on my MSc course.'
+url: https://blog.ryanhowe.co.uk
+baseurl: /
 
 author:
-  name:           'Ryan Howe'
-  url:            https://ryanhowe.co.uk
+  name: 'Ryan Howe'
+  url: https://ryanhowe.co.uk
 
-paginate:         5
+paginate: 5
 
 # Custom vars
 #version:          2.1.0
